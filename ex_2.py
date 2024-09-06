@@ -19,4 +19,3 @@ else :
     imaginary_part = math.sqrt(-d)/(2*a)
     print("Real_part root is: ",real_part)
     print("imaginary part is : ",imaginary_part)
-
